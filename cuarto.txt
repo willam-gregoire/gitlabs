@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-barco
-amarillo
-=======
 avion
-rojo
->>>>>>> main
+amarillo
 hola3
